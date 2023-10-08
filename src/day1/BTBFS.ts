@@ -3,11 +3,10 @@ export default function bfs(head: BinaryNode<number>, needle: number): boolean {
         return false;
     }
     
-    const q = [];
-    q.push(head);
+    const q = [head];
 
     while(q.length > 0) {
-        let cur: BinaryNode<number> | undefined = q.pop();
+        let cur: BinaryNode<number> | undefined = q.shift();
 
         if(cur?.value === needle)  {
             return true;
