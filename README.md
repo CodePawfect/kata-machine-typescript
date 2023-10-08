@@ -3,7 +3,7 @@
 🚀 **Frontend Masters DSA Course**
 
 In this repository, you'll find my own implementations for the [Algorithms and Data Structures Course](https://frontendmasters.com/courses/algorithms) by Frontend Masters. The Frame of the Project is developed by ThePrimeagen.
-Algorithm and Datastructure implementations found in kata-machine/src/{day}.
+Algorithm and Datastructure implementations can be found in kata-machine/src/{day}.
 
 🚀 **Developed and Implemented Independently!**
 
